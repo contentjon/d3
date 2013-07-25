@@ -1,4 +1,4 @@
-(ns d3
+(ns d3.core
   (:refer-clojure :exclude (remove)))
 
 (defn- selector->name [selector]
