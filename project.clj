@@ -1,4 +1,4 @@
-(defproject contentjon.d3 "0.1.2"
+(defproject contentjon.d3 "0.1.4"
   :description     "A ClojureScript wrapper for D3"
   :url             "https://github.com/contentjon/d3"
   :license         {:name         "EPL"
