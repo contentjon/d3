@@ -1,4 +1,4 @@
-(ns contentjon.d3
+(ns d3
   (:refer-clojure :exclude (remove)))
 
 (defn- selector->name [selector]
