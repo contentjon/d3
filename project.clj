@@ -1,4 +1,4 @@
-(defproject contentjon.d3 "0.1.0"
+(defproject contentjon.d3 "0.1.1"
   :min-lein-version "2.0.0"
   :hooks           [leiningen.cljsbuild]
   :plugins         [[lein-cljsbuild "0.3.2"]]

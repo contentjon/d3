@@ -1,4 +1,4 @@
-(ns contentjon.d3.svg)
+(ns d3.svg)
 
 (defn diagonal []
   (js/d3.svg.diagonal))
