@@ -1,4 +1,4 @@
-(ns contentjon.d3.tree)
+(ns d3.tree)
 
 (defn children [tree f]
   (.children tree f))
