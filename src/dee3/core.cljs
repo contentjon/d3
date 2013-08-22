@@ -79,7 +79,8 @@
                   (append-impl n res)
                   (text res n)))
               res
-              ns)))
+              ns)
+      res))
   js/Function
   (append-impl [f selection]
     (.append selection f)))
