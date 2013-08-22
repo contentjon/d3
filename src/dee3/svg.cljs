@@ -1,4 +1,4 @@
-(ns d3.svg)
+(ns dee3.svg)
 
 (defn diagonal []
   (js/d3.svg.diagonal))

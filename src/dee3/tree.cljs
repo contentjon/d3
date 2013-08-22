@@ -1,4 +1,4 @@
-(ns d3.tree)
+(ns dee3.tree)
 
 (defn children [tree f]
   (.children tree f))
